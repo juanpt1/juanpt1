@@ -1,6 +1,6 @@
 # 👋 Hola a todos soy (Juan Pablo Pelaez)</span>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="47%" />
 <p width="45%">
 Hola, mucho gusto. Permítanme presentarme brevemente.
   <ul>
